@@ -1,4 +1,4 @@
-![profile!]([/assets/images/san-juan-mountains.jpg](https://github.com/PraveenC786/PraveenC786/blob/main/profile.jpg?raw=true) "Praveen C")
+![profile]((https://github.com/PraveenC786/PraveenC786/blob/main/profile.jpg?raw=true) "Praveen C")
 
 - 👋 Hi, I’m @PraveenC786
 - 👀 I’m interested in ... Python, JAVA, Web Development and Data Analysis also AI & ML 
